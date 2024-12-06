@@ -136,6 +136,9 @@ h1, h2, h3, h4, h5, h6 {
 .zagalovki .content__nav__link:active {
   color: #b991b8;
 }
+.zagalovki .content__nav__link:focus-within {
+  background-color: black;
+}
 
 .logo {
   width: 100%;
